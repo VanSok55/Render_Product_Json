@@ -1,0 +1,275 @@
+{
+  "total": 15,
+  "products": [
+    {
+      "_id": 769386675444,
+      "name": "ចង្ក្រានលក់រថយន្តបានធ្វើឱ្យប្រសើរឡើងនូវដំណើរកម្សាន្តខ្លួនឯងបានឧទ្ទិសដល់ការចម្អិនអង្ករចំអិនម្ហូបចំអិនម្ហូបចង្ក្រានឡានដឹកទំនិញរបស់ឡានដឹកទំនិញរបស់ឡានដឹកទំនិញដឹកទំនិញរបស់ឡានដឹកទំនិញរបស់ឡានដឹកទំនិញរបស់ឡានដឹកទំនិញដឹកទំនិញរបស់ឡានដឹកទំនិញដឹកទំនិញរបស់ឡានដឹកទំនិញ",
+      "price": {
+        "minPrice": 4.83,
+        "maxPrice": 4.83
+      },
+      "promoPrice": {
+        "minPrice": 4.83,
+        "maxPrice": 4.83
+      },
+      "stock": 1,
+      "sold": 1,
+      "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/2213208291745/O1CN01ROiHVm1OlG3laiTKL_!!2213208291745.jpg_180x180.jpg",
+      "merchant": "邂逅优选4845",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=600570643319"
+    },
+    {
+      "_id": 709929334098,
+      "name": " រថយន្តចង្ក្រានលក់ស្រូវ 24V ឡានដឹកទំនិញបានឧទ្ទិសដល់ចម្អិនអគ្គិសនីអគ្គិសនីទំហំ 12V ម៉ាស៊ីនចង្រ្កានបាយជូរច្រើនដងរបស់ខ្លួន",
+      "price": {
+        "minPrice": 6.5,
+        "maxPrice": 6.5
+      },
+      "promoPrice": {
+        "minPrice": 6.5,
+        "maxPrice": 6.5
+      },
+      "stock": 4,
+      "sold": 4,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2215187812221/O1CN01Plu1Jo1SHGZhIQHUt_!!2215187812221.jpg_180x180.jpg",
+      "merchant": "时刻创业店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=769386675444"
+    },
+    {
+      "_id": 643640939133,
+      "name": " រថយន្តថ្មីមានដឹកទំនិញដែលមានចង្ក្រានលក់ស្រូវ 24 វ៉ូ 12 គ្រឿងរថយន្ត 33 វ៉ុល 220 វ៉ុល 220 វ៉ុលសម្រាប់បបរឆត្រស្រូវកាន់តែច្រើន",
+      "price": {
+        "minPrice": 14.17,
+        "maxPrice": 14.17
+      },
+      "promoPrice": {
+        "minPrice": 18,
+        "maxPrice": 18
+      },
+      "stock": 3,
+      "sold": 3,
+      "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i1/1941551295/O1CN01rg24gj1LR9ab3koE9_!!1941551295.jpg_180x180.jpg",
+      "merchant": "梁颖陈进爽",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=709929334098"
+    },
+    {
+      "_id": 763343403816,
+      "name": " ការងាររថយន្តចង្ក្រានចំរុះចង្ក្រានចំរោះម៉ាស៊ីន 12V24V strigregry អគ្គិសនីឡចំហាយទឹកពុះខ្ពស់ - ចង្ក្រានស្រូវខ្ពស់ - និងចង្ក្រាំងស្រូវដែលឆ្អិន",
+      "price": {
+        "minPrice": 242.05,
+        "maxPrice": 242.05
+      },
+      "promoPrice": {
+        "minPrice": 242.05,
+        "maxPrice": 242.05
+      },
+      "stock": 0,
+      "sold": 0,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2215946347861/O1CN017tM1CA27wOOLNCN4Q_!!2215946347861-0-picasso.jpg_180x180.jpg",
+      "merchant": "tb4753262158",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=643640939133"
+    },
+    {
+      "_id": 711050301230,
+      "name": " អ្នកចាំងអឌ្ឍគោលអឌ្ឍគោលទី 1 1- មនុស្សមានមុខងារច្រើនឆ្លាតវៃមានមុខងារពហុមុខងារខ្នាតតូច 3-4 នាក់ប្រើអន្តេវាសិកដ្ឋាន 5 លីត្រជាមួយចង្រ្កានអង្ករ",
+      "price": {
+        "minPrice": 7.5,
+        "maxPrice": 7.5
+      },
+      "promoPrice": {
+        "minPrice": 9.17,
+        "maxPrice": 9.17
+      },
+      "stock": 8,
+      "sold": 8,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/3176339479/O1CN01hxk6Y32JtR8TRAe6K_!!3176339479.jpg_180x180.jpg",
+      "merchant": "杜姐网店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=763343403816"
+    },
+    {
+      "_id": 770073786391,
+      "name": " ចង្ក្រានសម្ពាធកែសម្ផស្សយានយន្តកម្សាន្តរថយន្តពហុឡានដឹកទំនិញពិសេសរថយន្តពហុរថយន្តដឹកទំនិញពហុចរពិសេសរបស់រថយន្តដឹកទំនិញខូឃីស៍ដែលមានជាតិគីមីដែលមានជាតិគីមីដែលមានជាតិគីមីឱ្យមានកម្ពស់ជ័រស៊ុបធ្វើម្ហូបស៊ុបធ្វើម្ហូប",
+      "price": {
+        "minPrice": 55.84,
+        "maxPrice": 55.84
+      },
+      "promoPrice": {
+        "minPrice": 55.84,
+        "maxPrice": 55.84
+      },
+      "stock": 0,
+      "sold": 0,
+      "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/2217193514812/O1CN01OZpLJV1lPwnU9AkB7_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "派维诗旗舰店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=711050301230"
+    },
+    {
+      "_id": 769985192374,
+      "name": " អ្នកធ្វើម្ហូបប្រេកង់ពហុមនុស្សប្រាជ្ញាសម្រាប់ដំណើរកម្សាន្តខ្លួនឯងសម្រាប់រថក្រោះខ្លួនឯងសម្រាប់ឡានដឹក 24 វ៉",
+      "price": {
+        "minPrice": 35.09,
+        "maxPrice": 35.09
+      },
+      "promoPrice": {
+        "minPrice": 35.09,
+        "maxPrice": 35.09
+      },
+      "stock": 0,
+      "sold": 0,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2207864472386/O1CN011N3jn01TUpwRNo3eE_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "简米迪旗舰店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=770073786391"
+    },
+    {
+      "_id": 770211569773,
+      "name": " 3 អិល 2 -person ប្រាជ្ញាប្រាជ្ញាចង្រ្កានសម្រាប់ដំណើរកម្សាន្តខ្លួនឯងសម្រាប់រថយន្តដឹកទំនិញរថយន្ត 24V ",
+      "price": {
+        "minPrice": 19.25,
+        "maxPrice": 19.25
+      },
+      "promoPrice": {
+        "minPrice": 19.25,
+        "maxPrice": 19.25
+      },
+      "stock": 0,
+      "sold": 0,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2217279450612/O1CN013opma41GOLJyMsYH7_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "园翌扬康诚专卖店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=769985192374"
+    },
+    {
+      "_id": 770304754921,
+      "name": " អ្នកធ្វើម្ហូបអង្កររបស់ក្រុមហ៊ុនស្មាតឡានស្មាត 2L3L4L ធំជាងរថយន្តធ្វើម្ហូបខាញ់ខុនដូទ្វេរដងក្នុងផ្ទះ 2 វ៉ាស៊ីនតាក់រថយន្តដឹកទំនិញធុនស្រូវ 24 ឡាន 24V ",
+      "price": {
+        "minPrice": 112.52,
+        "maxPrice": 112.52
+      },
+      "promoPrice": {
+        "minPrice": 112.52,
+        "maxPrice": 112.52
+      },
+      "stock": 0,
+      "sold": 0,
+      "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/2201487230367/O1CN01vKLjU91Ea8HiRdbDA_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "沐典旗舰店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=770211569773"
+    },
+    {
+      "_id": 733133994887,
+      "name": " ក្រុមហ៊ុនដឹកអឌ្ឍគោលរថយន្តដឹកអឌ្ឍគោលដែលគ្មានដែនសមុទ្រឆ្លាតវៃនាពេលបច្ចុប្បន្ននេះមានផ្សែងអួន 24 វ៉ុនបារីលីត្រកង្វះអង្ករធ្វើម្ហូបចំនួន 2 លីត្រម៉ាស៊ីនចម្អិនអង្ករចំអិនម្ហូបអាហារ 2 លីត្រ",
+      "price": {
+        "minPrice": 13.84,
+        "maxPrice": 13.84
+      },
+      "promoPrice": {
+        "minPrice": 15.5,
+        "maxPrice": 15.5
+      },
+      "stock": 4,
+      "sold": 4,
+      "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/1589956408/O1CN01XwGl4M1xCurC42QVQ_!!1589956408.jpg_180x180.jpg",
+      "merchant": "lov0810088",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=770304754921"
+    },
+    {
+      "_id": 770690024768,
+      "name": " ក្រុមហ៊ុនដឹកទំនិញធុនស្រូវរថយន្តដឹកទំនិញធ្មែញមានភាពគ្មានកំណត់របស់ក្រុមហ៊ុនអាកាសចរណ៍វីនដូ 24 វ៉ូបារី 24 វ៉ូបណ្ណាល័យបណ្ណាល័យអង្ករអាំងឃីត",
+      "price": {
+        "minPrice": 35.87,
+        "maxPrice": 35.87
+      },
+      "promoPrice": {
+        "minPrice": 35.87,
+        "maxPrice": 35.87
+      },
+      "stock": 3,
+      "sold": 3,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2211559367307/O1CN01t55pTQ23qeyw7Nmpw_!!2211559367307.jpg_180x180.jpg",
+      "merchant": "南磊旺铺",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=733133994887"
+    },
+    {
+      "_id": 741232136369,
+      "name": " ក្រុមហ៊ុនដឹកអឌ្ឍគោលរថយន្តដឹកអឌ្ឍគោលដែលគ្មានដែនសមុទ្រឆ្លាតវៃនាពេលបច្ចុប្បន្ននេះមានផ្សែងអួន 24 វ៉ុនបារីលីត្រកង្វះអង្ករធ្វើម្ហូបចំនួន 2 លីត្រម៉ាស៊ីនចម្អិនអង្ករចំអិនម្ហូបអាហារ 2 លីត្រ",
+      "price": {
+        "minPrice": 28.98,
+        "maxPrice": 28.98
+      },
+      "promoPrice": {
+        "minPrice": 28.98,
+        "maxPrice": 28.98
+      },
+      "stock": 0,
+      "sold": 0,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/1589956408/O1CN01XwGl4M1xCurC42QVQ_!!1589956408.jpg_180x180.jpg",
+      "merchant": "tb911771102",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=770690024768"
+    },
+    {
+      "_id": 765290996648,
+      "name": " អ្នកធ្វើម្ហូបប្រេកង់ពហុមនុស្សប្រាជ្ញាសម្រាប់ដំណើរកម្សាន្តខ្លួនឯងសម្រាប់រថក្រោះខ្លួនឯងសម្រាប់ឡានដឹក 24 វ៉",
+      "price": {
+        "minPrice": 18.15,
+        "maxPrice": 18.15
+      },
+      "promoPrice": {
+        "minPrice": 27.96,
+        "maxPrice": 27.96
+      },
+      "stock": 0,
+      "sold": 0,
+      "mainImage": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/2212172674764/O1CN01Y0fzdB1l3xmRLSjyx_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "俪衫旗舰店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=741232136369"
+    },
+    {
+      "_id": 769978112212,
+      "name": " អ្នកធ្វើម្ហូបអង្កររបស់ក្រុមហ៊ុនស្មាតឡានស្មាត 2L3L4L ធំជាងរថយន្តធ្វើម្ហូបខាញ់ខុនដូទ្វេរដងក្នុងផ្ទះ 2 វ៉ាស៊ីនតាក់រថយន្តដឹកទំនិញធុនស្រូវ 24 ឡាន 24V ",
+      "price": {
+        "minPrice": 93.09,
+        "maxPrice": 93.09
+      },
+      "promoPrice": {
+        "minPrice": 93.09,
+        "maxPrice": 93.09
+      },
+      "stock": 0,
+      "sold": 0,
+      "mainImage": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/2207864472386/O1CN01fasDVC1TUpwQe250z_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "简米迪旗舰店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=765290996648"
+    },
+    {
+      "_id": 770311630838,
+      "name": " ចង្ក្រានលក់រថយន្ត 24V Dato David -Dededicics 12- ការប្រគំតន្ត្រីខ្លួនឯង 1 លី 2 មនុស្ស 2 នាក់",
+      "price": {
+        "minPrice": 42.43,
+        "maxPrice": 42.43
+      },
+      "promoPrice": {
+        "minPrice": 42.43,
+        "maxPrice": 42.43
+      },
+      "stock": 0,
+      "sold": 0,
+      "mainImage": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i3/2201487230367/O1CN01r9raIr1Ea8HkB38lA_!!0-item_pic.jpg_180x180.jpg",
+      "merchant": "沐典旗舰店",
+      "provider": "taobao",
+      "url": "http://detail.tmall.com/item.htm?id=769978112212"
+    }
+  ]
+}
